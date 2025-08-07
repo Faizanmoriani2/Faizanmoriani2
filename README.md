@@ -45,9 +45,24 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Faizanmoriani2&show_icons=true&theme=github_dark" alt="Faizan's GitHub stats" />
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanmoriani2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizanmoriani2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 ---
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Faizanmoriani2&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
+---
+
 
 ## 🔗 Connect with Me
 
