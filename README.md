@@ -5,17 +5,12 @@
 </p>
 
 ---
-
-> **📌 Note:** `Faizanmoriani2/Faizanmoriani2` is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on **freelance MERN stack projects** and expanding my DevOps skills  
+- 🔭 I’m currently working on **freelance MERN stack projects** and expanding my web skills  
 - 🌱 I’m currently learning **Next.js** and exploring more advanced **AI integrations**  
 - 👯 I’m looking to collaborate on **open-source MERN stack applications**  
-- 🤔 I’m looking for help with **deploying scalable full-stack apps on cloud platforms**  
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**  
-- 📫 How to reach me: [faizan@example.com](mailto:faizan@example.com)  
+- 🤔 I’m looking for help with **deploying scalable full-stack apps**  
+- 💬 Ask me about **Tech and Gaming**  
+- 📫 How to reach me: [faizanmoriani7@gmail.com](mailto:faizanmoriani7@gmail.com)  
 - ⚡ Fun fact: I like turning complex problems into clean and functional web apps!
 
 ---
@@ -60,6 +55,6 @@ Here are some ideas to get you started:
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:faizan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/faizan-ali-3b141a255"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:faizanmoriani7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
